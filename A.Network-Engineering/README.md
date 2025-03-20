@@ -1,15 +1,15 @@
 ## Network Engineering Resources
 
-# 🎯 Goals
+#  Goals
 - Software: Code like a pro (Python, web dev, cloud).
 - Network: Master networks (TCP/IP, routing, security).
 - Overlap: Build apps that talk to networks (APIs, automation).
 - Endgame: Capstone project + portfolio for GitHub.
-# 🛠️ Tools You’ll Use
+#  Tools You’ll Use
 - Software: Python, VS Code, Git, Flask, Docker, AWS.
 - Network: Wireshark, Packet Tracer, GNS3, nmap, TryHackMe.
 - Free Resources: Codecademy, freeCodeCamp, Professor Messer.
-# 📅 Plan Breakdown
+#  Plan Breakdown
 - Months 1-2: Foundations (Weeks 1-8)
 - Kickstart with basics.
 
@@ -34,12 +34,12 @@
 - Network: SDN, cloud networking (AWS VPC), QoS.
 - Milestone: Capstone (e.g., secure chat app with monitoring).
 - Tasks: Deploy to AWS, encrypt a file, optimize performance.
-# 🌟 Highlights
+#  Highlights
 - Week 1: Hello World + ping your router.
 - Week 10: Fetch API data + simulate a network.
 - Week 19: Encrypt files + sniff HTTPS.
 - Week 24: Ship your capstone to GitHub!
-# 🚀 Next Steps
+#  Next Steps
 - Certifications: CCNA, AWS Developer, CompTIA Network+.
 - Portfolio: Share projects on GitHub.
 - Specialize: Cybersecurity, cloud, or devops.
