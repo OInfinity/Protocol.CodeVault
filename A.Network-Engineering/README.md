@@ -43,7 +43,7 @@
 - Certifications: CCNA, AWS Developer, CompTIA Network+.
 - Portfolio: Share projects on GitHub.
 - Specialize: Cybersecurity, cloud, or devops.
-# 💡 Pro Tips
+# Pro Tips
 - Consistency: 2-3 hours/day, 5-6 days/week.
 - Adapt: Speed up/slow down as needed.
 - Practice: Code and configure daily—hands-on is king.
