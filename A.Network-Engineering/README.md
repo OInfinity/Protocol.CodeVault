@@ -1,12 +1,10 @@
 ## Network Engineering Resources
 
 #  Goals
-- Software: Code like a pro (Python, web dev, cloud).
 - Network: Master networks (TCP/IP, routing, security).
 - Overlap: Build apps that talk to networks (APIs, automation).
 - Endgame: Capstone project + portfolio for GitHub.
 #  Tools You’ll Use
-- Software: Python, VS Code, Git, Flask, Docker, AWS.
 - Network: Wireshark, Packet Tracer, GNS3, nmap, TryHackMe.
 - Free Resources: Codecademy, freeCodeCamp, Professor Messer.
 #  Plan Breakdown
@@ -14,7 +12,6 @@
 - Kickstart with basics.
 
 # Key Skills:
-- Software: Python basics (loops, functions), SQL, scripting.
 - Network: OSI model, IP addressing, HTTP, packet sniffing.
 - Milestone: Build a Python script to ping IPs and log results.
 - Tasks: Write a factorial program, analyze traffic with Wireshark.
@@ -22,7 +19,6 @@
 - Level up with integration.
 
 # Key Skills:
-- Software: OOP, APIs, web dev (Flask), cloud basics.
 - Network: VLANs, routing (OSPF), cybersecurity, Wi-Fi.
 - Milestone: Network monitoring tool (Python + Flask).
 - Tasks: Call a REST API, configure a router in GNS3.
@@ -30,7 +26,6 @@
 - Master the craft.
 
 # Key Skills:
-- Software: System design, DevOps (Docker), cryptography.
 - Network: SDN, cloud networking (AWS VPC), QoS.
 - Milestone: Capstone (e.g., secure chat app with monitoring).
 - Tasks: Deploy to AWS, encrypt a file, optimize performance.
