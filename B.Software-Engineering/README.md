@@ -1,4 +1,4 @@
-## Network Engineering Resources
+## Software Engineering Resources
 
 #  Goals
 - Software: Code like a pro (Python, web dev, cloud).
